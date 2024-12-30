@@ -8,7 +8,7 @@ DOMAIN: JAVA PROGRAMMING
 
 DURATION: DEC20 2024 TO JAN20 2025
 
-MENTOR: N.SANTHOSH
+MENTOR: N.SANTHOSH KUMAR
 
 Overview of the Project: Basic Calculator in Java
 
@@ -95,3 +95,17 @@ A fully functional Java program that acts as a basic calculator.
 Clear documentation explaining how to use the program.
 
 A console-based user interface that provides an engaging user experience.
+
+
+
+
+![Screenshot from 2024-12-30 19-00-45](https://github.com/user-attachments/assets/08b89f8a-30cb-411c-910d-60a7d10f7b89)
+
+
+
+
+![Screenshot from 2024-12-30 19-00-53](https://github.com/user-attachments/assets/1838fce4-752d-4be6-ae72-d2978e6b5635)
+
+
+
+![Screenshot from 2024-12-30 21-13-01](https://github.com/user-attachments/assets/b5002ce8-6d53-43b6-be6b-65b1c93101ad)
